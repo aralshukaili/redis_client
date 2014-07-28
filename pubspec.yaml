@@ -1,4 +1,4 @@
-name: redis_client
+name: dartredisclient
 version: 0.1.13
 authors:
 - Demis Bellot <demis.bellot@gmail.com>
